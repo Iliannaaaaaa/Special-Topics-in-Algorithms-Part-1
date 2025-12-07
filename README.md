@@ -1,0 +1,1 @@
+This was my submission for the first homework for the Special Topics in Algorithms lesson at AUEB. I hope that the solutions are clear, despite them being in Greek. The methods and the results are correct, so someone with knowledge on the subject can comprehend the solutions despite the language barrier.
